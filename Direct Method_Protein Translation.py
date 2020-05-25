@@ -1,3 +1,12 @@
+"""
+# -*- coding: utf-8 -*-
+
+Created on April 12 2016 
+
+"""
+
+
+
 import numpy as np
 from numpy import random
 import statistics as st
